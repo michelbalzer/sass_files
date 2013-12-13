@@ -1,20 +1,33 @@
 /*
     from: Michel Balzer;
-    feel free to edit and maybe pull to github: https://github.com/michelbalzer/sass_social_colors
+    feel free to edit and pull to github: https://github.com/michelbalzer/sass_social_colors
+    
+    Many colors were taken from http://brandcolors.net/
 */
 
-$dribbble: #EA4C89; /* from link color */
-$facebook: #3b5998; /* from the top bar */
-$twitter: #00ACED; /* from the twitter bird */
-$instagram: #844B3D; /* a brown tone from the logo */
-$gplus: #b83114; /* took the darkest red from the favicon */
-$adn: #898c90; /* app.net; from their logo */
-$rss: #ed812d; /* an orange tone from feedicons.com */
-$lastfm: #D51007; /* from their headline style */
-$linkedin: #2C94C3; /* from their headline style */
-$github: #4183C4; /* from their headline */
-$github_cat: #f5ccb6; /* the face of the github cat – bonus */
-$pinterest: #D30D26; /* from their logo */
-$flattr: #8BB546; /* i took the green from the feedback box */
-$skype: #16aff0; /* from their logo */
-$spotify: #7AB800; /* from their headline style */
+$color_adn: #898c90; /* app.net; from their logo */
+$color_dribbble: #EA4C89; /* from link color */
+$color_facebook: #3b5998; /* from the top bar */
+$color_flattr: #8BB546; /* i took the green from the feedback box */
+$color_flickr: #0063dc; /* the blue of flickr */
+$color_flickr_alt: #ff0084; /* the pink of flattr */
+$color_foursquare: #25a0ca;
+$color_github: #4183C4; /* from their headline */
+$color_github_cat: #f5ccb6; /* the face of the github cat – bonus */
+$color_google: #0140ca; /* blueish */ 
+$color_googleplus: #dd4b39; /* as mentioned on https://developers.google.com/+/branding-guidelines */
+$color_instagram: #3f729b;
+$color_lastfm: #c3000d; /* taken from http://brandcolors.net/ */
+$color_linkedin: #0e76a8; /* from their headline style */
+$color_pinterest: #c8232c; /* from their logo */
+$color_reddit: #ff4500;
+$color_rss: #ed812d; /* an orange tone from feedicons.com */
+$color_skype: #00aff0; /* from their logo */
+$color_spotify: #81b71a; /* from their headline style */
+$color_tumblr: #34526f;
+$color_twitter: #55acee; /* from https://about.twitter.com/press/brand-assets */
+$color_vimeo: #44bbff;
+$color_xing: #126567;
+$color_yelp: #c41200;
+$color_youtube: #c4302b;
+$color_zootool: #5e8b1d;
